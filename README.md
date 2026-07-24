@@ -32,7 +32,7 @@ The backend exposes AI-powered REST APIs that integrate with Google Gemini AI wh
 - Generate Code
 - Explain Existing Code
 - Save Generated Code
-- Execute Python Code
+- support multi language
 - Download Generated Code
 
 ---
